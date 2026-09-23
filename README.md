@@ -10,13 +10,15 @@ them in one click.
 
 ## Download
 
-Get the latest from **[Releases](https://github.com/SolrLabs/pulsar/releases/latest)**.
+Each link downloads the latest version for that system.
 
-| System | File |
+| System | Download |
 |---|---|
-| Windows 10/11 (x64) | `Pulsar-win-Setup.exe` |
-| Linux (x64) | `Pulsar.AppImage` |
-| macOS (Apple Silicon) | `Pulsar-osx-Setup.pkg` |
+| Windows 10 or later (x64) | [Pulsar-win-Setup.exe](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar-win-Setup.exe) |
+| Linux (x64) | [Pulsar.AppImage](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar.AppImage) |
+| macOS 12 or later (Apple Silicon) | [Pulsar-osx-Setup.pkg](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar-osx-Setup.pkg) |
+
+Older versions and changelogs are on the [Releases](https://github.com/SolrLabs/pulsar/releases) page.
 
 Once it's installed, Pulsar updates itself. Only download it from this page or
 [pulsarmods.com](https://pulsarmods.com). Copies anywhere else aren't ours.
