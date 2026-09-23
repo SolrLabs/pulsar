@@ -6,10 +6,10 @@ body:
     attributes:
       value: |
         **This issue will be public.** Read everything below before you submit, including anything
-        Pulsar filled in for you. Remove names, server addresses, or anything else you would not post
-        in public. Pulsar replaces your home folder with `~`, but it cannot catch everything.
+        Pulsar filled in for you. Remove names, server addresses, or anything else you wouldn't post
+        in public. Pulsar replaces your home folder with `~`, but it can't catch everything.
 
-        Found a security problem? Don't file it here — see [SECURITY.md](https://github.com/SolrLabs/pulsar/blob/HEAD/SECURITY.md).
+        Found a security problem? Please don't file it here. See [SECURITY.md](https://github.com/SolrLabs/pulsar/blob/HEAD/SECURITY.md).
 
   - type: input
     id: version
@@ -72,5 +72,5 @@ body:
     attributes:
       label: Log (optional)
       description: |
-        Only if you want to. Logs can list your mods, server names and folder paths — check before
+        Only if you want to. Logs can list your mods, server names and folder paths, so check before
         you attach. Drag the file in, or paste the relevant lines.
