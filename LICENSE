@@ -1,0 +1,113 @@
+Pulsar End User License Agreement
+
+Copyright (c) 2026 SolrLabs LLC. All rights reserved.
+
+This agreement is between you and SolrLabs LLC ("SolrLabs", "we", "us"). Pulsar is
+free of charge. It is not open source. By installing, running or otherwise using
+Pulsar, you accept this agreement. If you do not accept it, do not use Pulsar.
+
+1. What you may do
+   You may download, install and use Pulsar free of charge, for your own personal,
+   non-commercial use, on any number of devices you own or control.
+
+2. What you may not do
+   You may not:
+   a. redistribute Pulsar, or make it available for download, anywhere other than
+      the official sources: https://github.com/SolrLabs/pulsar and
+      https://pulsarmods.com;
+   b. sell, rent, lease or sublicense Pulsar, or charge for access to it, alone or
+      bundled with anything else;
+   c. modify, adapt or create derivative works of Pulsar;
+   d. reverse engineer, decompile or disassemble Pulsar, except where applicable
+      law expressly allows it despite this restriction;
+   e. remove or alter any copyright, license or attribution notice in Pulsar.
+
+3. Ownership
+   Pulsar is licensed, not sold. SolrLabs keeps all rights not expressly granted
+   here. This agreement covers the versions of Pulsar it is distributed with.
+   Future versions or features may be offered on different terms, including paid
+   terms.
+
+4. Third-party components
+   Pulsar includes open-source components licensed under their own terms, listed
+   in THIRD-PARTY-NOTICES.md. Those terms govern those components, and nothing
+   here limits the rights they grant you.
+
+5. Mods, games and third-party services
+   a. Pulsar downloads, installs and changes mods, mod loaders, configuration
+      files and other content made by third parties, obtained from third-party
+      services such as Thunderstore. SolrLabs does not create, review, control,
+      endorse or take responsibility for any of that content, including whether it
+      is safe, lawful, working or free of malicious code.
+   b. You are solely responsible for what you choose to install, and for complying
+      with the terms of service, end user agreements and rules of every game,
+      platform, server and service you use with Pulsar. Some games and servers
+      prohibit mods; using them can lead to penalties, including bans.
+   c. SolrLabs is not affiliated with, endorsed by or sponsored by any game
+      developer or publisher, Thunderstore, BepInEx, Valve or any other third
+      party. Game names and artwork belong to their owners and are used only to
+      identify the games Pulsar supports.
+
+6. Your data and your games
+   Pulsar changes files in your game folders and stores data on your devices.
+   Backups, snapshots and rollbacks made by Pulsar may be incomplete or fail. You
+   are solely responsible for keeping your own independent backups of anything you
+   cannot afford to lose, including saved games, worlds, characters, configuration
+   and game installations.
+
+7. No warranty
+   PULSAR IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT
+   WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, SOLRLABS
+   DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+   NON-INFRINGEMENT, ACCURACY, AND THAT PULSAR WILL BE UNINTERRUPTED, ERROR-FREE,
+   SECURE OR FREE OF HARMFUL COMPONENTS, OR THAT IT WILL PRESERVE OR PROTECT ANY
+   DATA. PULSAR IS NOT CODE-SIGNED. YOU USE PULSAR ENTIRELY AT YOUR OWN RISK.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+   a. IN NO EVENT WILL SOLRLABS, ITS MEMBERS, MANAGERS, EMPLOYEES, CONTRACTORS OR
+      CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+      EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, SAVED GAMES, GAME
+      INSTALLATIONS, ACCOUNTS, PROFITS, GOODWILL OR USE, OR FOR ANY PENALTY OR BAN
+      IMPOSED BY A THIRD PARTY, ARISING FROM OR RELATED TO PULSAR, ANY MOD OR
+      CONTENT IT INSTALLS, OR THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY
+      OF LIABILITY (CONTRACT, TORT INCLUDING NEGLIGENCE, STRICT LIABILITY OR
+      OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+   b. SOLRLABS' TOTAL LIABILITY FOR ALL CLAIMS ARISING FROM OR RELATED TO PULSAR OR
+      THIS AGREEMENT WILL NOT EXCEED THE AMOUNT YOU PAID FOR PULSAR, WHICH IS ZERO,
+      OR IF THAT LIMIT IS NOT ENFORCEABLE, FIVE US DOLLARS (US $5).
+   c. THESE LIMITS APPLY EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. THEY ARE
+      AN ESSENTIAL BASIS OF THIS AGREEMENT: SOLRLABS PROVIDES PULSAR FREE OF CHARGE
+      ONLY BECAUSE OF THEM.
+
+9. Indemnity
+   To the maximum extent permitted by law, you will defend, indemnify and hold
+   harmless SolrLabs and its members, managers, employees, contractors and
+   contributors from any claim, loss, liability, damage or cost (including
+   reasonable attorneys' fees) arising from your use of Pulsar, the mods and
+   content you install with it, or your breach of this agreement or of any
+   third party's terms.
+
+10. Termination
+    This agreement ends automatically if you break it. When it ends you must stop
+    using Pulsar and delete your copies. Sections 3 and 5 through 12 survive
+    termination.
+
+11. Where the law says otherwise
+    Some jurisdictions do not allow certain warranty exclusions or liability
+    limits, so some of the above may not apply to you. In that case they apply to
+    the fullest extent the law allows. If any part of this agreement is held
+    unenforceable, that part is limited to the minimum extent necessary and the
+    rest stays in effect.
+
+12. Governing law
+    This agreement is governed by the laws of the Commonwealth of Kentucky, United States,
+    without regard to its conflict-of-law rules. Any dispute arising from it will
+    be resolved exclusively in the state or federal courts located in Kentucky, and
+    you consent to their jurisdiction.
+
+13. Entire agreement
+    This is the entire agreement between you and SolrLabs about Pulsar. SolrLabs
+    may update it for future versions; the version distributed with a release
+    governs that release.

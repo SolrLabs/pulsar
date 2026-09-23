@@ -1,0 +1,76 @@
+name: Bug report
+description: Something in Pulsar went wrong, or Pulsar crashed.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue will be public.** Read everything below before you submit, including anything
+        Pulsar filled in for you. Remove names, server addresses, or anything else you would not post
+        in public. Pulsar replaces your home folder with `~`, but it cannot catch everything.
+
+        Found a security problem? Don't file it here — see [SECURITY.md](https://github.com/SolrLabs/pulsar/blob/HEAD/SECURITY.md).
+
+  - type: input
+    id: version
+    attributes:
+      label: Pulsar version
+      description: Shown in Settings. Filled in for you after a crash.
+      placeholder: "0.3.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - Linux
+        - macOS
+    validations:
+      required: true
+
+  - type: input
+    id: os-version
+    attributes:
+      label: OS version
+      placeholder: "Windows 11 24H2, Ubuntu 24.04, macOS 15.5"
+
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      placeholder: "Valheim"
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the Installed tab
+        2. Click …
+        3. …
+
+  - type: textarea
+    id: crash
+    attributes:
+      label: Crash report
+      description: Filled in by Pulsar after a crash. Leave empty otherwise.
+      render: text
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log (optional)
+      description: |
+        Only if you want to. Logs can list your mods, server names and folder paths — check before
+        you attach. Drag the file in, or paste the relevant lines.
