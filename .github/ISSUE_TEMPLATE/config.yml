@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Get help or suggest a feature
+    url: https://discord.gg/mbeu66dnYk
+    about: Questions, help with a game, and feature ideas go to the Pulsar Discord.
   - name: Report a security problem privately
     url: https://github.com/SolrLabs/pulsar/security/advisories/new
     about: Security issues go here, not in a public issue.
