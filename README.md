@@ -21,7 +21,7 @@ Each link downloads the latest version for that system.
 Older versions and changelogs are on the [Releases](https://github.com/SolrLabs/pulsar/releases) page.
 
 Once it's installed, Pulsar updates itself. Only download it from this page or
-[pulsarmods.com](https://pulsarmods.com/?utm_source=github). Copies anywhere else aren't ours.
+[pulsarmods.com](https://pulsarmods.com/github). Copies anywhere else aren't ours.
 
 ## Installing
 
@@ -63,7 +63,7 @@ For security problems, see [SECURITY.md](SECURITY.md).
 
 This release has no accounts and no usage telemetry. It talks to Thunderstore to find and download
 mods, and to this repository to check for updates. The details are at
-[pulsarmods.com/privacy](https://pulsarmods.com/privacy?utm_source=github).
+[pulsarmods.com/privacy](https://pulsarmods.com/privacy).
 
 ## License
 
