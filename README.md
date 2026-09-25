@@ -61,8 +61,9 @@ For security problems, see [SECURITY.md](SECURITY.md).
 
 ## Privacy
 
-This release has no accounts and no usage telemetry. It talks to Thunderstore to find and download
-mods, and to this repository to check for updates. The details are at
+Pulsar has no accounts. It can send anonymous usage statistics and crash reports, which you can
+turn off in Settings. It also talks to Thunderstore to find and download mods, and to this
+repository to check for updates. The details are at
 [pulsarmods.com/privacy](https://pulsarmods.com/privacy).
 
 ## License

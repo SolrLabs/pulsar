@@ -8,13 +8,16 @@ Pulsar, you accept this agreement. If you do not accept it, do not use Pulsar.
 
 1. What you may do
    You may download, install and use Pulsar free of charge, for your own personal,
-   non-commercial use, on any number of devices you own or control.
+   non-commercial use, on any number of devices you own or control. Using Pulsar to
+   play games, including in streams, videos or other content you publish or
+   monetise, counts as personal use.
 
 2. What you may not do
    You may not:
    a. redistribute Pulsar, or make it available for download, anywhere other than
-      the official sources: https://github.com/SolrLabs/pulsar and
-      https://pulsarmods.com;
+      the official sources: https://github.com/SolrLabs/pulsar,
+      https://pulsarmods.com and Pulsar's official listing on
+      https://thunderstore.io;
    b. sell, rent, lease or sublicense Pulsar, or charge for access to it, alone or
       bundled with anything else;
    c. modify, adapt or create derivative works of Pulsar;
@@ -53,7 +56,9 @@ Pulsar, you accept this agreement. If you do not accept it, do not use Pulsar.
    Backups, snapshots and rollbacks made by Pulsar may be incomplete or fail. You
    are solely responsible for keeping your own independent backups of anything you
    cannot afford to lose, including saved games, worlds, characters, configuration
-   and game installations.
+   and game installations. Pulsar can send anonymous usage analytics and crash
+   reports. What it sends, whether it is on by default where you live, and how to
+   turn it off are described at https://pulsarmods.com/privacy.
 
 7. No warranty
    PULSAR IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT
