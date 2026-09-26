@@ -25,13 +25,14 @@ Once it's installed, Pulsar updates itself. Only download it from this page or
 
 ## Installing
 
-Pulsar isn't code-signed yet, so Windows and macOS ask you to confirm the first time you open it.
-The steps below walk you through it.
+The Windows installer is signed by SolrLabs LLC. The macOS one isn't signed yet. Either system
+may ask you to confirm the first time you open it, and the steps below walk you through it.
 
 ### Windows
 
 1. Run `Pulsar-win-Setup.exe`.
-2. If you see **"Windows protected your PC"**, choose **More info**, then **Run anyway**.
+2. If you see **"Windows protected your PC"**, choose **More info**. It names SolrLabs LLC as the
+   publisher. Then choose **Run anyway**.
 
 Pulsar installs for your user only, so you don't need administrator rights.
 
