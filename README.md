@@ -67,6 +67,13 @@ turn off in Settings. It also talks to Thunderstore to find and download mods, a
 repository to check for updates. The details are at
 [pulsarmods.com/privacy](https://pulsarmods.com/privacy).
 
+## How it's made
+
+Pulsar is built by a solo developer with 25 years of development experience using AI-assisted
+coding tools. Every release runs about 3,500 automated tests on Mac, Windows and Linux before it
+ships, and it's tested by hand on all three. Issues are actively monitored for bugs, and new
+features are planned for near-term release.
+
 ## License
 
 Free to use, at your own risk. See [LICENSE](LICENSE).
