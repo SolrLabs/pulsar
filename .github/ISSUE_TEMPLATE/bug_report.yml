@@ -7,7 +7,7 @@ body:
       value: |
         **This issue will be public.** Read everything below before you submit, including anything
         Pulsar filled in for you. Remove names, server addresses, or anything else you wouldn't post
-        in public. Pulsar replaces your home folder with `~`, but it can't catch everything.
+        in public.
 
         Found a security problem? Please don't file it here. See [SECURITY.md](https://github.com/SolrLabs/pulsar/blob/HEAD/SECURITY.md).
 
@@ -15,8 +15,8 @@ body:
     id: version
     attributes:
       label: Pulsar version
-      description: Shown in Settings. Filled in for you after a crash.
-      placeholder: "0.3.0"
+      description: Shown in Settings. Filled in when you open this from Pulsar.
+      placeholder: "0.4.6, 0.4.7, etc."
     validations:
       required: true
 
@@ -35,13 +35,13 @@ body:
     id: os-version
     attributes:
       label: OS version
-      placeholder: "Windows 11 24H2, Ubuntu 24.04, macOS 15.5"
+      placeholder: "Windows 11 24H2, Ubuntu 24.04, macOS 15.5, etc."
 
   - type: input
     id: game
     attributes:
       label: Game
-      placeholder: "Valheim"
+      placeholder: "Valheim, R.E.P.O., Content Warning, etc."
 
   - type: textarea
     id: what-happened
@@ -64,7 +64,7 @@ body:
     id: crash
     attributes:
       label: Crash report
-      description: Filled in by Pulsar after a crash. Leave empty otherwise.
+      description: If Pulsar showed you a crash report, paste it here. Leave empty otherwise.
       render: text
 
   - type: textarea
