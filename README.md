@@ -17,6 +17,7 @@ Each link downloads the latest version for that system.
 | Windows 10 or later (x64) | [Pulsar-win-Setup.exe](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar-win-Setup.exe) |
 | Linux (x64) | [Pulsar.AppImage](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar.AppImage) |
 | macOS 12 or later (Apple Silicon) | [Pulsar-osx-Setup.pkg](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar-osx-Setup.pkg) |
+| macOS 12 or later (Intel) | [Pulsar-osx-x64-Setup.pkg](https://github.com/SolrLabs/pulsar/releases/latest/download/Pulsar-osx-x64-Setup.pkg) |
 
 Older versions and changelogs are on the [Releases](https://github.com/SolrLabs/pulsar/releases) page.
 
@@ -46,10 +47,10 @@ Keep it in a folder you own. An AppImage in a system folder like `/opt` can't up
 
 ### macOS
 
-1. Open `Pulsar-osx-Setup.pkg`. macOS blocks it with **"Apple could not verify…"**. Click
+1. Open `Pulsar-osx-Setup.pkg` (or `Pulsar-osx-x64-Setup.pkg` on an Intel Mac). macOS blocks it with **"Apple could not verify…"**. Click
    **Done**.
 2. Go to **System Settings**, then **Privacy & Security**. Scroll down and click **Open Anyway**
-   next to the message about `Pulsar-osx-Setup.pkg`.
+   next to the message about the installer.
 3. Enter your password, then follow the installer.
 
 ## Reporting a bug
