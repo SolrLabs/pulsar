@@ -5,7 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **This issue will be public.** Read everything below before you submit.
+        **This issue will be public.** Read everything below before you submit, including anything
+        Pulsar filled in for you.
 
   - type: textarea
     id: idea
@@ -27,21 +28,19 @@ body:
     id: game
     attributes:
       label: Game
-      description: If it's about one game.
+      description: If it's about one game. Filled in when you open this from Pulsar.
       placeholder: "Valheim, R.E.P.O., Content Warning, etc."
 
   - type: input
     id: version
     attributes:
       label: Pulsar version
-      description: Shown in Settings.
+      description: Shown in Settings. Filled in when you open this from Pulsar.
       placeholder: "0.4.6, 0.4.7, etc."
 
-  - type: dropdown
-    id: os
+  - type: input
+    id: os-version
     attributes:
       label: Operating system
-      options:
-        - Windows
-        - Linux
-        - macOS
+      description: Name and version. Filled in when you open this from Pulsar.
+      placeholder: "Windows 11 24H2, Ubuntu 24.04, macOS 15.5, etc."
