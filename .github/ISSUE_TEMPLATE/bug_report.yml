@@ -5,9 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        **This issue will be public.** Read everything below before you submit, including anything
-        Pulsar filled in for you. Remove names, server addresses, or anything else you wouldn't post
-        in public.
+        **This issue will be public.** Read everything below before you submit. Remove names, server
+        addresses, or anything else you wouldn't post in public.
 
         Found a security problem? Please don't file it here. See [SECURITY.md](https://github.com/SolrLabs/pulsar/blob/HEAD/SECURITY.md).
 
@@ -15,7 +14,7 @@ body:
     id: version
     attributes:
       label: Pulsar version
-      description: Shown in Settings. Filled in when you open this from Pulsar.
+      description: Shown in Settings.
       placeholder: "0.4.6, 0.4.7, etc."
     validations:
       required: true
