@@ -26,8 +26,8 @@ Once it's installed, Pulsar updates itself. Only download it from this page or
 
 ## Installing
 
-The Windows installer is signed by SolrLabs LLC. The macOS one isn't signed yet. Either system
-may ask you to confirm the first time you open it, and the steps below walk you through it.
+The Windows and macOS installers are signed by SolrLabs LLC. Windows may ask you to confirm the
+first time you open it, and the steps below walk you through it.
 
 ### Windows
 
@@ -47,11 +47,8 @@ Keep it in a folder you own. An AppImage in a system folder like `/opt` can't up
 
 ### macOS
 
-1. Open `Pulsar-osx-Setup.pkg` (or `Pulsar-osx-x64-Setup.pkg` on an Intel Mac). macOS blocks it with **"Apple could not verify…"**. Click
-   **Done**.
-2. Go to **System Settings**, then **Privacy & Security**. Scroll down and click **Open Anyway**
-   next to the message about the installer.
-3. Enter your password, then follow the installer.
+1. Open `Pulsar-osx-Setup.pkg` (or `Pulsar-osx-x64-Setup.pkg` on an Intel Mac).
+2. Follow the installer, and enter your password when it asks.
 
 ## Reporting a bug
 
