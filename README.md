@@ -48,7 +48,7 @@ Keep it in a folder you own. An AppImage in a system folder like `/opt` can't up
 ### macOS
 
 1. Open `Pulsar-osx-Setup.pkg` (or `Pulsar-osx-x64-Setup.pkg` on an Intel Mac).
-2. Follow the installer, and enter your password when it asks.
+2. Follow the installer.
 
 ## Help and bug reports
 
