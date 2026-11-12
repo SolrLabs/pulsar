@@ -6,7 +6,7 @@ Pulsar is a mod manager and launcher for BepInEx games like Valheim and Lethal C
 as many profiles as you want per game, install your mods from Thunderstore, and switch between
 them in one click.
 
-**Early release.** Expect rough edges, and please [report them](#reporting-a-bug).
+**Early release.** Expect rough edges, and please [report them](#help-and-bug-reports).
 
 ## Download
 
@@ -50,11 +50,11 @@ Keep it in a folder you own. An AppImage in a system folder like `/opt` can't up
 1. Open `Pulsar-osx-Setup.pkg` (or `Pulsar-osx-x64-Setup.pkg` on an Intel Mac).
 2. Follow the installer, and enter your password when it asks.
 
-## Reporting a bug
+## Help and bug reports
 
-[Open a bug report](https://github.com/SolrLabs/pulsar/issues/new?template=bug_report.yml). If
-Pulsar crashes, it offers to fill one in for you the next time you open it. Nothing is sent until
-you submit it yourself.
+[Join us on Discord](https://discord.gg/69EDBhux78) to ask a question, report a bug or suggest an
+idea. If Pulsar crashes, it offers to fill in a bug report for you the next time you open it.
+Nothing is sent until you submit it yourself.
 
 For security problems, see [SECURITY.md](SECURITY.md).
 
